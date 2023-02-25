@@ -22,13 +22,13 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="https://ping.pub/rebus/staking/rebusvaloper1fagquqac5q43k8juchhlq4z42tzz757k4yqgy4">
         <img src="https://user-images.githubusercontent.com/81378817/203578721-f9062a6f-4c89-4297-a5c5-6b329804ef6a.png" width="45" height="45" alt="JavaScript" />
       </a>
       <br>Rebus
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="https://explorer.stride.zone/stride/staking/stridevaloper1tcc5phalsu2glt6ys4l9ehvweqqxfk59w7wkgq" >
         <img src="https://user-images.githubusercontent.com/81378817/203579048-950dc08f-04dd-4be3-af06-411c745bcd8d.png" width="45" height="45" alt="Figma" />
       </a>
       <br>Stride

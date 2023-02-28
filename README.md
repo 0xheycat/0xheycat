@@ -18,7 +18,7 @@
 ## Deploy smartcontract testnet
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatalbar&repo=smartcontract)](https://github.com/fatalbar/smartcontract)
 
-## Stake with CAT mainet
+<h2 align="left" id="Stake on Mainet"> ☕️ Stake with CAT on Mainet</h2>
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -32,8 +32,37 @@
         <img src="https://user-images.githubusercontent.com/81378817/203579048-950dc08f-04dd-4be3-af06-411c745bcd8d.png" width="45" height="45" alt="Figma" />
       </a>
       <br>Stride
+      </td>  
+   </tr>
+</table>
+<br>
 
+<h2 align="left" id="Stake with cat on Testnet"> ☕️ Stake with cat on Testnet</h2>
 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://explorer.kaon.kyve.network/kaon/staking/kyvevaloper12n5luaqsdlwmdgqvvterrqcxqnan70afq8zngk">
+        <img src="https://kyve-korellia.s3.eu-central-1.amazonaws.com/images/favicon.ico" width="45" height="45" alt="JavaScript" />
+      </a>
+      <br>Kyve
+      </td>
+    <td align="center" width="96">
+      <a href="https://testnet.ping.pub/haqq/staking/haqqvaloper1zz5zssa0tn4sfw77hyscdnpmcw04nfdrxhhjdr" >
+        <img src="https://haqq.explorers.guru/chains/haqq.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>HAQQ
+      </td>
+    <td align="center" width="96">
+      <a href="https://testnet.ping.pub/celestia/staking/celestiavaloper17p2f76jpvkddkcdh5nzrpg2jz9d4y8j9p5zhuu" >
+        <img src="https://testnet.ping.pub/logos/celestia.png" width="45" height="45" alt="Figma" />
+      </a>
+      <br>CELESTIA
+      </td> 
+   </tr>  
+ 
+</table>
+<br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

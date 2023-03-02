@@ -58,6 +58,18 @@
         <img src="https://testnet.ping.pub/logos/celestia.png" width="45" height="45" alt="Figma" />
       </a>
       <br>CELESTIA
+      </td>
+    <td align="center" width="96">
+      <a href="https://explorer.kjnodes.com/sei-testnet/staking/seivaloper19ak8cytle08kw6hckd5quk5d79zut9t9e0cplh" >
+        <img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/sei.png" width="45" height="45" alt="Figma" />
+      </a>
+      <br>SEI Atl-1
+      </td>
+    <td align="center" width="96">
+      <a href="https://itn-1.nibiru.fi/validators/nibivaloper1rns4tg39ses696js09w7tvp33m54dfdpv2krca" >
+        <img src="https://nibiru.explorers.guru/chains/nibiru.png" width="45" height="45" alt="Figma" />
+      </a>
+      <br>NIBIRU
       </td> 
    </tr>  
  

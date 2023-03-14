@@ -32,6 +32,12 @@
         <img src="https://user-images.githubusercontent.com/81378817/203579048-950dc08f-04dd-4be3-af06-411c745bcd8d.png" width="45" height="45" alt="Figma" />
       </a>
       <br>Stride
+       </td>
+    <td align="center" width="96">
+      <a href="https://explorer.kyve.network/kyve/staking/kyvevaloper1pvyk0sptgvcmr9578xzpnfl6kksl8ne8c042gj" >
+        <img src="https://kyve-korellia.s3.eu-central-1.amazonaws.com/images/favicon.ico" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Kyve Mainet
       </td>  
    </tr>
 </table>

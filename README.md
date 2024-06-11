@@ -7,19 +7,19 @@
 
 ### Github status 👋
 
-![Fatalbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatalbar&show_icons=true&theme=radical)
+![0xheycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&theme=radical)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatalbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xheycat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contribution
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatalbar&repo=Contribution)](https://github.com/fatalbar/Contribution)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=Contribution)](https://github.com/0xheycat/Contribution)
 
 ## Testnet Guides
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatalbar&repo=Testnet-validator)](https://github.com/fatalbar/Testnet-validator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=Testnet-validator)](https://github.com/0xheycat/Testnet-validator)
 
 ## Deploy smartcontract testnet
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatalbar&repo=smartcontract)](https://github.com/fatalbar/smartcontract)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=smartcontract)](https://github.com/0xheycat/smartcontract)
 
 <h2 align="left" id="Stake on Mainet"> ☕️ Stake with CAT on Mainet</h2>
 <table width='100%'>
@@ -87,13 +87,13 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/fatalbar/testnet-validator.svg?style=for-the-badge
-[contributors-url]: https://github.com/fatalbar/testnet-validator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fatalbar/testnet-validator.svg?style=for-the-badge
-[forks-url]: https://github.com/fatalbar/testnet-validator/network/members
-[stars-shield]: https://img.shields.io/github/stars/fatalbar/testnet-validator.svg?style=for-the-badge
-[stars-url]: https://github.com/fatalbar/Testnet-validator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fatalbar/testnet-validator.svg?style=for-the-badge
-[issues-url]: https://github.com/fatalbar/testnet-validator/issues
+[contributors-shield]: https://img.shields.io/github/contributors/0xheycat/testnet-validator.svg?style=for-the-badge
+[contributors-url]: https://github.com/0xheycat/testnet-validator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/0xheycat/testnet-validator.svg?style=for-the-badge
+[forks-url]: https://github.com/0xheycat/testnet-validator/network/members
+[stars-shield]: https://img.shields.io/github/stars/0xheycat/testnet-validator.svg?style=for-the-badge
+[stars-url]: https://github.com/0xheycat/Testnet-validator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/0xheycat/testnet-validator.svg?style=for-the-badge
+[issues-url]: https://github.com/0xheycat/testnet-validator/issues
 
 

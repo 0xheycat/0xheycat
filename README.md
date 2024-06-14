@@ -5,7 +5,11 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
+
 ### Github status 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xheycat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/0x-heycat-2054a6255)
+[![Twitter](https://img.shields.io/badge/Twitter-0xheycat-blue?style=flat&logo=twitter)](https://twitter.com/0xheycat)
+![Profile Views](https://komarev.com/ghpvc/?username=0xheycat&color=brightgreen)
 
 ![0xheycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&theme=radical)
 

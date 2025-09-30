@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+0xheycat+github;Hint+feedback+if+you+real+Alphacat)](https://git.io/typing-svg)
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

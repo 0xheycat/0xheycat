@@ -12,7 +12,7 @@
 [![Warpcast](https://img.shields.io/badge/Warpcast-heycat-purple?style=for-the-badge&logo=warpcast&logoColor=white)](https://warpcast.com/heycat)
 ![Profile Views](https://komarev.com/ghpvc/?username=0xheycat&color=06b6d4&style=for-the-badge)
 
-**Learning to prepare a bright future. I'm nobody, just look for peace ✌️**
+**Silently building a bright future. I am humble in presence, but peaceful in mind ✌️**
 
 </div>
 

@@ -1,20 +1,46 @@
-<a name="readme-top"></a>
+<div align="center">
 
-<a name="readme-top"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5B45A&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+0xheycat+%F0%9F%90%B1;Full-Stack+%26+Web3+Developer;Building+local+AI+studios+%26+on-chain+games;Learning.+Building.+Growing.+Peace+%E2%9C%8C%EF%B8%8F)](https://github.com/0xheycat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=🐱+0xheycat;Web3+Developer+%26+Blockchain+Enthusiast;Building+the+future+with+code;Learning+to+prepare+bright+future;Peace+✌️)](https://git.io/typing-svg)
+[![X](https://img.shields.io/badge/X-@0xheycat-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xheycat)
+[![Farcaster](https://img.shields.io/badge/Farcaster-heycat-855DCD?style=for-the-badge&logo=farcaster&logoColor=white)](https://warpcast.com/heycat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xheycat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x-heycat-2054a6255)
+[![Links](https://img.shields.io/badge/Links-link3.to-06B6D4?style=for-the-badge&logo=linktree&logoColor=white)](https://link3.to/whoisme)
+![Profile Views](https://komarev.com/ghpvc/?username=0xheycat&color=F5B45A&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+> **Silently building a bright future — humble in presence, peaceful in mind. ✌️**
+
+---
+
+## 🐾 About Me
+
+- 🧑‍💻 Full-stack & Web3 developer @ **Meowbored**
+- 🎮 Building **PurrFarm** — a play-to-earn isometric farming game on **Base** via **Farcaster**
+- 🎨 Building **MeowArt** — a luxury **local AI studio** frontend for **ComfyUI** (image / video / 3D / audio)
+- 🧩 Author of [**isometric-game-skills**](https://github.com/0xheycat/isometric-game-skills) — an agent-ready toolkit for building isometric games
+- 🌏 Based in Indonesia · I write code in TypeScript and dream in pixels
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 💼 Github Status
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xheycat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x-heycat-2054a6255)
-[![Twitter](https://img.shields.io/badge/Twitter-@0xheycat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xheycat)
-[![Warpcast](https://img.shields.io/badge/Warpcast-heycat-purple?style=for-the-badge&logo=warpcast&logoColor=white)](https://warpcast.com/heycat)
-![Profile Views](https://komarev.com/ghpvc/?username=0xheycat&color=06b6d4&style=for-the-badge)
-
-**Silently building a bright future. I am humble in presence, but peaceful in mind ✌️**
+[![gmeowbased](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=gmeowbased&title_color=F5B45A&icon_color=F5B45A&text_color=c9d1d9&bg_color=0d1117&hide_border=true)](https://github.com/0xheycat/gmeowbased)
+[![baseairdrop](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=baseairdrop&title_color=F5B45A&icon_color=F5B45A&text_color=c9d1d9&bg_color=0d1117&hide_border=true)](https://github.com/0xheycat/baseairdrop)
+[![isometric-game-skills](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=isometric-game-skills&title_color=F5B45A&icon_color=F5B45A&text_color=c9d1d9&bg_color=0d1117&hide_border=true)](https://github.com/0xheycat/isometric-game-skills)
+[![Testnet-validator](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=Testnet-validator&title_color=F5B45A&icon_color=F5B45A&text_color=c9d1d9&bg_color=0d1117&hide_border=true)](https://github.com/0xheycat/Testnet-validator)
 
 </div>
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Gmeow Protocol**](https://github.com/0xheycat/gmeowbased) | Multichain quest protocol — gamification, social, tokenized rewards & soulbound badges | TypeScript · Next.js · Farcaster |
+| [**Base Checker**](https://github.com/0xheycat/baseairdrop) | Farcaster mini app that scores any Base L2 wallet (0–100) & estimates airdrop allocation | TypeScript |
+| [**isometric-game-skills**](https://github.com/0xheycat/isometric-game-skills) | 20-skill toolkit: ComfyUI art pipeline, terrain, sprites, grid math, pathfinding | Python · ComfyUI |
+| [**Testnet Validator**](https://github.com/0xheycat/Testnet-validator) | Community node & validator setup guides | Shell |
 
 ---
 
@@ -22,152 +48,67 @@
 
 <div align="center">
 
-![0xheycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&theme=radical&hide_border=true)
+![0xheycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&hide_border=true&title_color=F5B45A&icon_color=F5B45A&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=0xheycat&hide_border=true&background=0d1117&ring=F5B45A&fire=F5B45A&currStreakLabel=F5B45A&sideLabels=c9d1d9&dates=8b949e&stroke=F5B45A)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xheycat&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xheycat&layout=compact&hide_border=true&title_color=F5B45A&text_color=c9d1d9&bg_color=0d1117&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xheycat&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Trophies](https://github-profile-trophy.vercel.app/?username=0xheycat&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Gmeow Protocol
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=gmeowbased&theme=radical&hide_border=true)](https://github.com/0xheycat/gmeowbased)
-
-**Multichain quest protocol combining gamification, social features, and tokenized rewards**
-- TypeScript · Next.js · Smart Contracts · Farcaster Frames
-- Quest system · Badge NFTs · Leaderboards · Referral Programs
-
-### 💎 Web3 & Blockchain Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=meowbored-staking&theme=radical&hide_border=true)](https://github.com/0xheycat/meowbored-staking) | **Meowbored Staking** - Simple staking dApps | JavaScript |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=smartcontract&theme=radical&hide_border=true)](https://github.com/0xheycat/smartcontract) | **Smart Contracts** - Testnet deployment | Solidity |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=Bridge&theme=radical&hide_border=true)](https://github.com/0xheycat/Bridge) | **Cross-EVM Bridge** - Bridge protocol | Web3 |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=Testnet-validator&theme=radical&hide_border=true)](https://github.com/0xheycat/Testnet-validator) | **Testnet Validator** - Node setup guides | Shell |
-
----
-
-## 🛠️ Blockchain & L2 Research
-
-### Zero-Knowledge & Protocol Development
-
-| Project | Description | Language | Stars |
-|---------|-------------|----------|-------|
-| [Union Protocol](https://github.com/0xheycat/union) | Trust-minimized ZK bridging protocol | Rust | ⭐ |
-| [Nova](https://github.com/0xheycat/Nova) | Recursive arguments from folding schemes | Rust | ⭐ |
-| [FHEVM](https://github.com/0xheycat/fhevm) | Fully Homomorphic Encryption framework | Rust | ⭐ |
-| [Penumbra](https://github.com/0xheycat/penumbra) | Privacy-focused Cosmos network | Rust | ⭐ |
-| [Taiko Mono](https://github.com/0xheycat/taiko-mono) | Ethereum-equivalent ZK-Rollup | HTML/Solidity | ⭐ |
-
-### Validator & Infrastructure
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [EigenLayer CLI](https://github.com/0xheycat/eigenlayer) | Validator network toolkit | Go |
-| [SSV](https://github.com/0xheycat/ssv) | Secret-Shared-Validator for Ethereum | Go |
-| [EigenDA Operator](https://github.com/0xheycat/eigenda-operator-setup) | Data availability operator setup | Shell |
-| [Dymension Testnets](https://github.com/0xheycat/dymension-testnets) | RollApp testnet guides | Shell |
-
----
-
-## 🌐 Web3 Tools & Utilities
-
-| Tool | Purpose | Stack |
-|------|---------|-------|
-| [Asset Recovery Tool](https://github.com/0xheycat/asset-recovery-tool) | Recover tokens from compromised wallets | JavaScript |
-| [Mini App Image](https://github.com/0xheycat/miniapp-img) | Dynamic image generation for Mini Apps | TypeScript |
-| [AlphaChat](https://github.com/0xheycat/alphachat) | Alpha discussions & insights | JavaScript |
-| [Contribution Hub](https://github.com/0xheycat/Contribution) | Open project contributions | Multi-language |
-
----
-
-## ☕ Validator Staking
-
-Active participation in Proof-of-Stake networks:
-
-<table width='100%' align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://explorer.kaon.kyve.network/kaon/staking/kyvevaloper12n5luaqsdlwmdgqvvterrqcxqnan70afq8zngk">
-        <img src="https://kyve-korellia.s3.eu-central-1.amazonaws.com/images/favicon.ico" width="45" height="45" alt="Kyve" />
-      </a>
-      <br><strong>KYVE</strong>
-      </td>
-    <td align="center" width="96">
-      <a href="https://testnet.ping.pub/haqq/staking/haqqvaloper1zz5zssa0tn4sfw77hyscdnpmcw04nfdrxhhjdr" >
-        <img src="https://haqq.explorers.guru/chains/haqq.svg" width="45" height="45" alt="HAQQ" />
-      </a>
-      <br><strong>HAQQ</strong>
-      </td>
-    <td align="center" width="96">
-      <a href="https://testnet.ping.pub/celestia/staking/celestiavaloper17p2f76jpvkddkcdh5nzrpg2jz9d4y8j9p5zhuu" >
-        <img src="https://testnet.ping.pub/logos/celestia.png" width="45" height="45" alt="Celestia" />
-      </a>
-      <br><strong>CELESTIA</strong>
-      </td>
-    <td align="center" width="96">
-      <a href="https://explorer.kjnodes.com/sei-testnet/staking/seivaloper19ak8cytle08kw6hckd5quk5d79zut9t9e0cplh" >
-        <img src="https://raw.githubusercontent.com/kj89/testnet_manuals/main/pingpub/logos/sei.png" width="45" height="45" alt="SEI" />
-      </a>
-      <br><strong>SEI Atl-1</strong>
-      </td>
-    <td align="center" width="96">
-      <a href="https://itn-1.nibiru.fi/validators/nibivaloper1rns4tg39ses696js09w7tvp33m54dfdpv2krca" >
-        <img src="https://nibiru.explorers.guru/chains/nibiru.png" width="45" height="45" alt="Nibiru" />
-      </a>
-      <br><strong>NIBIRU</strong>
-      </td> 
-   </tr>  
-</table>
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** TypeScript · JavaScript · Rust · Go · Solidity · Python · Shell
+**Languages**
 
-**Frontend:** Next.js · React · Tailwind CSS
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Blockchain:** Smart Contracts · Web3 · EVM · Cosmos · ZK Protocols
+**Frontend & Game Dev**
 
-**Infrastructure:** Node Operators · Validators · Staking · RPC Services
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat-square&logo=pixiv&logoColor=white)
 
-**Tools:** Foundry · Hardhat · SubSquid · Supabase · Docker
+**Web3 & Backend**
+
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI / Local Tooling**
+
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A1A?style=flat-square&logo=nvidia&logoColor=76B900)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=flat-square&logo=stabilityai&logoColor=white)
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔬 Exploring Zero-Knowledge proofs and protocols
-- 🔗 Building multichain solutions
-- 🎮 Developing gamification and quest systems
-- 🕸️ Integrating social protocols (Farcaster Frames)
-- 🏗️ Infrastructure and validator participation
+- 🎮 Shipping **PurrFarm** — isometric farming game on Base + Farcaster
+- 🎨 Building **MeowArt** — local AI studio on top of ComfyUI (image, video, 3D, audio presets)
+- 🧩 Growing **isometric-game-skills** into a reusable open-source toolkit
+- 🔗 Exploring on-chain quests, mini apps & social protocols (Farcaster Frames)
+- 🌱 Contributing back to public repos for devs learning ComfyUI & game dev
 
 ---
 
-## 📈 Achievements & Badges
-
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark%20×2-2EA44F?style=for-the-badge&logo=github)
-![YOLO](https://img.shields.io/badge/YOLO-FFD700?style=for-the-badge&logo=github)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-FF6B6B?style=for-the-badge&logo=github)
-
-**1,439 contributions** in the last year 📊
-
----
-
-## 📞 Let's Connect
+## ☕ Validator & Staking
 
 <div align="center">
 
-📧 **Want to collaborate?** Check out my [projects](https://github.com/0xheycat?tab=repositories) or [reach out](mailto:heycat@example.com)
+Active participation in Proof-of-Stake networks (testnet & mainnet):
 
-🤝 [Open to opportunities](#) in Web3, Blockchain Development, and Protocol Research
+`KYVE` · `HAQQ` · `Celestia` · `SEI` · `Nibiru` · `Dymension` · `EigenLayer` · `SSV`
 
 </div>
 
@@ -175,12 +116,6 @@ Active participation in Proof-of-Stake networks:
 
 <div align="center">
 
-**Built with 💜 by [0xheycat](https://github.com/0xheycat)**
-
-*Learning. Building. Growing. Peace ✌️*
-
-© 2026 | Building the future, one commit at a time 🚀
+**Built with 💛 by [0xheycat](https://github.com/0xheycat)** · *Learning. Building. Growing.* ✌️
 
 </div>
-
-

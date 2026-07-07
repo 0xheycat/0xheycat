@@ -44,10 +44,10 @@ My work usually focuses on practical user-facing prototypes: miniapps, on-chain 
 
 <div align="center">
 
-[![Gmeow Protocol](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=gmeowbased&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12)](https://github.com/0xheycat/gmeowbased)
-[![Base Checker](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=baseairdrop&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12)](https://github.com/0xheycat/baseairdrop)
-[![isometric-game-skills](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=isometric-game-skills&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12)](https://github.com/0xheycat/isometric-game-skills)
-[![Testnet Validator](https://github-readme-stats.vercel.app/api/pin/?username=0xheycat&repo=Testnet-validator&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12)](https://github.com/0xheycat/Testnet-validator)
+[![Gmeow Protocol](https://img.shields.io/badge/Gmeow_Protocol-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/gmeowbased)
+[![Base Checker](https://img.shields.io/badge/Base_Checker-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/baseairdrop)
+[![isometric-game-skills](https://img.shields.io/badge/isometric--game--skills-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/isometric-game-skills)
+[![Testnet Validator](https://img.shields.io/badge/Testnet_Validator-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/Testnet-validator)
 
 </div>
 
@@ -87,11 +87,10 @@ My work usually focuses on practical user-facing prototypes: miniapps, on-chain 
 
 <div align="center">
 
-![0xheycat GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12)
+[![GitHub followers](https://img.shields.io/github/followers/0xheycat?style=for-the-badge&logo=github&color=F5B45A&labelColor=111827)](https://github.com/0xheycat?tab=followers)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Visit_Profile-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat)
 
 ![0xheycat GitHub streak](https://streak-stats.demolab.com?user=0xheycat&theme=github-dark-blue&hide_border=true&ring=F5B45A&fire=F5B45A&currStreakLabel=F5B45A&border_radius=12)
-
-![0xheycat top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xheycat&layout=compact&theme=github_dark&hide_border=true&title_color=F5B45A&border_radius=12&langs_count=8)
 
 </div>
 
@@ -108,5 +107,7 @@ I care about clean product direction, minimal fake data, real wallet flows, mobi
 <div align="center">
 
 **GitHub:** [github.com/0xheycat](https://github.com/0xheycat) · **X:** [x.com/0xheycat](https://x.com/0xheycat) · **Farcaster:** [warpcast.com/heycat](https://warpcast.com/heycat)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:F5B45A,100:0D1117&section=footer" alt="footer" />
 
 </div>

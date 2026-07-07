@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,50:F5B45A,100:0D1117&text=0xheycat&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=42&desc=AI%20%2B%20Web3%20%2B%20Games%20%2B%20Developer%20Tooling&descAlign=50&descAlignY=58&animation=fadeIn" alt="0xheycat banner" />
+
 # 0xheycat
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F5B45A&center=true&vCenter=true&width=760&lines=Independent+AI+%2B+Web3+builder;Farcaster+miniapps+%E2%80%A2+Base+ecosystem+%E2%80%A2+On-chain+games;Local+AI+tooling+%E2%80%A2+ComfyUI+%E2%80%A2+MCP+workflows;Shipping+small%2C+real%2C+testable+iterations)](https://github.com/0xheycat)

@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,50:F5B45A,100:0D1117&text=0xheycat&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=42&desc=AI%20%2B%20Web3%20%2B%20Games%20%2B%20Developer%20Tooling&descAlign=50&descAlignY=58&animation=fadeIn" alt="0xheycat banner" />
+# 0xheycat
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F5B45A&center=true&vCenter=true&width=760&lines=Independent+AI+%2B+Web3+builder;Farcaster+miniapps+%E2%80%A2+Base+ecosystem+%E2%80%A2+On-chain+games;Local+AI+tooling+%E2%80%A2+ComfyUI+%E2%80%A2+MCP+workflows;Shipping+small%2C+real%2C+testable+iterations)](https://github.com/0xheycat)
+
+**AI-assisted Web3 products · Farcaster miniapps · On-chain games · Local AI tooling**
 
 [![X](https://img.shields.io/badge/X-@0xheycat-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xheycat)
 [![Farcaster](https://img.shields.io/badge/Farcaster-heycat-855DCD?style=for-the-badge&logo=farcaster&logoColor=white)](https://warpcast.com/heycat)
@@ -85,10 +87,11 @@ My work usually focuses on practical user-facing prototypes: miniapps, on-chain 
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12" alt="0xheycat GitHub stats" />
-<img height="175" src="https://streak-stats.demolab.com?user=0xheycat&theme=github-dark-blue&hide_border=true&ring=F5B45A&fire=F5B45A&currStreakLabel=F5B45A&border_radius=12" alt="0xheycat GitHub streak" />
+![0xheycat GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheycat&show_icons=true&theme=github_dark&hide_border=true&title_color=F5B45A&icon_color=F5B45A&border_radius=12)
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xheycat&layout=compact&theme=github_dark&hide_border=true&title_color=F5B45A&border_radius=12&langs_count=8" alt="0xheycat top languages" />
+![0xheycat GitHub streak](https://streak-stats.demolab.com?user=0xheycat&theme=github-dark-blue&hide_border=true&ring=F5B45A&fire=F5B45A&currStreakLabel=F5B45A&border_radius=12)
+
+![0xheycat top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xheycat&layout=compact&theme=github_dark&hide_border=true&title_color=F5B45A&border_radius=12&langs_count=8)
 
 </div>
 
@@ -105,7 +108,5 @@ I care about clean product direction, minimal fake data, real wallet flows, mobi
 <div align="center">
 
 **GitHub:** [github.com/0xheycat](https://github.com/0xheycat) · **X:** [x.com/0xheycat](https://x.com/0xheycat) · **Farcaster:** [warpcast.com/heycat](https://warpcast.com/heycat)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:F5B45A,100:0D1117&section=footer" alt="footer" />
 
 </div>

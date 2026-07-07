@@ -46,19 +46,19 @@ My work usually focuses on practical user-facing prototypes: miniapps, on-chain 
 
 <div align="center">
 
-[![Gmeow Protocol](https://img.shields.io/badge/Gmeow_Protocol-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/gmeowbased)
-[![Base Checker](https://img.shields.io/badge/Base_Checker-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/baseairdrop)
 [![isometric-game-skills](https://img.shields.io/badge/isometric--game--skills-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/isometric-game-skills)
-[![Testnet Validator](https://img.shields.io/badge/Testnet_Validator-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/Testnet-validator)
+[![Base Checker](https://img.shields.io/badge/Base_Checker-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/baseairdrop)
+[![Purr Verify MCP](https://img.shields.io/badge/Purr--Verify--MCP-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/Purr-Verify-MCP)
+[![Purr GitHub MCP](https://img.shields.io/badge/Purr--github--MCP-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/Purr-github-MCP)
 
 </div>
 
 | Project | Description | Stack / Focus |
 |---|---|---|
-| [**Gmeow Protocol**](https://github.com/0xheycat/gmeowbased) | Quest and social protocol experiments for Web3 user engagement | TypeScript · Next.js · Farcaster |
-| [**Base Checker**](https://github.com/0xheycat/baseairdrop) | Base wallet scoring and miniapp-style wallet analysis | TypeScript · Base |
 | [**isometric-game-skills**](https://github.com/0xheycat/isometric-game-skills) | Agent-ready toolkit for isometric game systems, sprites, terrain, and pipelines | Python · ComfyUI · Game Dev |
-| [**Testnet Validator**](https://github.com/0xheycat/Testnet-validator) | Validator, node, and testnet setup references | Shell · Infrastructure |
+| [**Base Checker**](https://github.com/0xheycat/baseairdrop) | Base wallet scoring and miniapp-style wallet analysis | TypeScript · Base · Farcaster |
+| [**Purr-Verify-MCP**](https://github.com/0xheycat/Purr-Verify-MCP) | MCP workflow support for repo verification, proof capture, and agent-driven checks | MCP · GitHub · Automation |
+| [**Purr-github-MCP**](https://github.com/0xheycat/Purr-github-MCP) | GitHub-focused MCP workflow for cleaner repo operations and agent-assisted development | MCP · GitHub · Developer Tooling |
 
 ---
 

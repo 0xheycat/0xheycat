@@ -9,6 +9,7 @@
 **AI-assisted Web3 products · Farcaster miniapps · On-chain games · Local AI tooling**
 
 [![X](https://img.shields.io/badge/X-@0xheycat-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xheycat)
+[![Website](https://img.shields.io/badge/Website-0xheycat.xyz-F5B45A?style=for-the-badge&logo=vercel&logoColor=black)](https://0xheycat.xyz/)
 [![Farcaster](https://img.shields.io/badge/Farcaster-heycat-855DCD?style=for-the-badge&logo=farcaster&logoColor=white)](https://warpcast.com/heycat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0xheycat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x-heycat-2054a6255)
 [![Links](https://img.shields.io/badge/Links-link3.to-06B6D4?style=for-the-badge&logo=linktree&logoColor=white)](https://link3.to/whoisme)
@@ -108,7 +109,7 @@ I care about clean product direction, minimal fake data, real wallet flows, mobi
 
 <div align="center">
 
-**GitHub:** [github.com/0xheycat](https://github.com/0xheycat) · **X:** [x.com/0xheycat](https://x.com/0xheycat) · **Farcaster:** [warpcast.com/heycat](https://warpcast.com/heycat)
+**Website:** [0xheycat.xyz](https://0xheycat.xyz/) · **GitHub:** [github.com/0xheycat](https://github.com/0xheycat) · **X:** [x.com/0xheycat](https://x.com/0xheycat) · **Farcaster:** [warpcast.com/heycat](https://warpcast.com/heycat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:F5B45A,100:0D1117&section=footer" alt="footer" />
 

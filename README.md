@@ -47,6 +47,7 @@ My work usually focuses on practical user-facing prototypes: miniapps, on-chain 
 
 <div align="center">
 
+[![Pursr](https://img.shields.io/badge/Pursr-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/pursr)
 [![isometric-game-skills](https://img.shields.io/badge/isometric--game--skills-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/isometric-game-skills)
 [![Base Checker](https://img.shields.io/badge/Base_Checker-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/baseairdrop)
 [![Purr Verify MCP](https://img.shields.io/badge/Purr--Verify--MCP-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F5B45A&labelColor=111827)](https://github.com/0xheycat/Purr-Verify-MCP)
@@ -56,6 +57,7 @@ My work usually focuses on practical user-facing prototypes: miniapps, on-chain 
 
 | Project | Description | Stack / Focus |
 |---|---|---|
+| [**Pursr**](https://github.com/0xheycat/pursr) | Visual QA, accessibility audits, screenshot diffing, browser automation, and MCP sessions | Node.js · Playwright · MCP |
 | [**isometric-game-skills**](https://github.com/0xheycat/isometric-game-skills) | Agent-ready toolkit for isometric game systems, sprites, terrain, and pipelines | Python · ComfyUI · Game Dev |
 | [**Base Checker**](https://github.com/0xheycat/baseairdrop) | Base wallet scoring and miniapp-style wallet analysis | TypeScript · Base · Farcaster |
 | [**Purr-Verify-MCP**](https://github.com/0xheycat/Purr-Verify-MCP) | MCP workflow support for repo verification, proof capture, and agent-driven checks | MCP · GitHub · Automation |
